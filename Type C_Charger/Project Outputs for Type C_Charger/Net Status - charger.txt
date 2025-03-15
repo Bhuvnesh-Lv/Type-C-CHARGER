@@ -1,0 +1,26 @@
+Net Status Report
+Filename     : D:\ALTIUM CREATIONS\Type C_Charger\charger.PcbDoc
+Date         : 15-03-2025
+Time         : 12:09:30 AM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +5, Signal Layers Only, 0mils
+    5VIN, Signal Layers Only, 0mils
+    CC1_IN, Signal Layers Only, 0mils
+    CC1_OUT, Signal Layers Only, 0mils
+    CC2_IN, Signal Layers Only, 0mils
+    CC2_OUT, Signal Layers Only, 0mils
+    D+, Signal Layers Only, 0mils
+    D-, Signal Layers Only, 0mils
+    EN, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 0mils
+    NetC2_2, Signal Layers Only, 0mils
+    NetI1_2, Signal Layers Only, 0mils
+    NetIC2_1, Signal Layers Only, 0mils
+    NetIC2_5, Signal Layers Only, 0mils
+    NetIC3_5, Signal Layers Only, 0mils
+    NetLED1_2, Signal Layers Only, 0mils
+    NetLED2_1, Signal Layers Only, 0mils
+    NetPort1_1, Signal Layers Only, 0mils
+count : 18

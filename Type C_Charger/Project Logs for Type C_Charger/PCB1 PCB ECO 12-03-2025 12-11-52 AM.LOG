@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=+5 Pin=J2-A4
+Removed Pin From Net: NetName=+5 Pin=J2-A9
+Removed Pin From Net: NetName=+5 Pin=J2-B4
+Removed Pin From Net: NetName=+5 Pin=J2-B9
+Removed Pin From Net: NetName=+5 Pin=R13-2
+Removed Pin From Net: NetName=+5 Pin=R14-2
+Removed Member From Class: ClassName=PowerNets Member=NetC4_2
+Added Component: Designator=IC1(SOP65P490X110-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PAM2401SCADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pam2401scadj/diodes-incorporated?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com//assets/Datasheets/PAM2401.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PAM2401SCADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-PAM2401SCADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/PAM2401SCADJ?qs=Ay79KZaUeZCprHtLIDXq%252BQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetI1_2 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetC2_2 Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetC4_2 Pin=IC1-7
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=NetC4_2 Pin=J2-A4
+Added Pin To Net: NetName=NetC4_2 Pin=J2-A9
+Added Pin To Net: NetName=NetC4_2 Pin=J2-B4
+Added Pin To Net: NetName=NetC4_2 Pin=J2-B9
+Added Pin To Net: NetName=NetC4_2 Pin=R13-2
+Added Pin To Net: NetName=NetC4_2 Pin=R14-2
+Change Net Name : Old Net Name=+5 New Net Name=5VIN
+Change Net Name : Old Net Name=NetC4_2 New Net Name=+5
+Added Member To Class: ClassName=Sheet2 Member=Component IC1 PAM2401SCADJ
+Added Member To Class: ClassName=PowerNets Member=Wire 5VIN
